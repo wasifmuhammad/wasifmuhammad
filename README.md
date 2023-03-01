@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wasifmuhammad
-- 👀 I’m interested in Every Technology specifically Laravel and JavaScript
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m interested in Every Technology specifically JavaScript
+- 🌱 I’m currently fullstack developer
 - 📫 How to reach me ...
 - 🧾 wasifmuhammad519@gmail.com
 
